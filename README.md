@@ -1,6 +1,8 @@
 # Hello-World
 This is the Hello World project
 
+//Veronica Roth
+
 void setup() {
  
   pinMode(13, OUTPUT);    // sets the digital pin 13 as output
