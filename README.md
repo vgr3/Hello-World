@@ -1,4 +1,7 @@
 # Hello-World
+# Brandon Ferruzza
+# BJF54@pitt.edu
+
 This is the Hello World project
 
 void setup() {
