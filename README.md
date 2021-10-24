@@ -1,7 +1,7 @@
 # Hello-World
 # Veronica Roth
 # Brandon Ferruzza
-# BJF54@pitt.edu
+# Dan Feathers
 
 This is the Hello World project
 
